@@ -1,0 +1,9 @@
+HELO Iniciacion de comunicación
+BYE  Finalización de la comunicación
+102  Procesando
+200  Usuario y contraseña correctos
+201  Petición DOWNLOAD o UPLOAD aceptada
+202  Petición finalizada
+401  Error: Usuario erroneo
+404  Error: Archivo no encontrado
+405  Error: Número incorrecto de parámetros

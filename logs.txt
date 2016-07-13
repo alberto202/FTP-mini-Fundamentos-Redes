@@ -1,0 +1,47 @@
+El usuario 'Alberto' ha bajado el fichero example2. - 2015/11/17 01:47:02
+El usuario 'Alberto' se ha conectado. - 2015/11/17 01:54:59
+El usuario 'Alberto' ha subido el fichero example. - 2015/11/17 01:55:03
+El usuario 'Alberto' ha bajado el fichero example2. - 2015/11/17 01:55:07
+El usuario 'Alberto' ha desconectado. - 2015/11/17 01:55:10
+El usuario 'Jose' se ha conectado. - 2015/11/17 15:51:56
+El usuario 'Jose' ha subido el fichero example. - 2015/11/17 15:52:03
+El usuario 'Jose' ha bajado el fichero example. - 2015/11/17 15:52:23
+El usuario 'Alberto' se ha conectado. - 2015/11/17 15:53:23
+El usuario 'Alberto' ha bajado el fichero example. - 2015/11/17 15:53:26
+El usuario 'Alberto' ha subido el fichero example. - 2015/11/17 15:53:34
+El usuario 'Alberto' ha bajado el fichero example. - 2015/11/17 15:53:40
+El usuario 'Jose' se ha conectado. - 2015/11/17 16:11:22
+El usuario 'Jose' ha subido el fichero example. - 2015/11/17 16:11:25
+El usuario 'Jose' ha bajado el fichero example. - 2015/11/17 16:11:30
+El usuario 'Jose' ha bajado el fichero example. - 2015/11/17 16:11:35
+El usuario 'Jose' ha subido el fichero example. - 2015/11/17 16:11:40
+El usuario 'Jose' ha desconectado. - 2015/11/17 16:11:43
+El usuario 'Jose' se ha conectado. - 2015/11/17 17:16:24
+El usuario 'Jose' ha subido el fichero example. - 2015/11/17 17:16:32
+El usuario 'Jose' ha bajado el fichero example. - 2015/11/17 17:16:41
+El usuario 'Jose' ha desconectado. - 2015/11/17 17:16:43
+El usuario 'Alberto' se ha conectado. - 2015/11/17 21:14:03
+El usuario 'Alberto' ha subido el fichero example. - 2015/11/17 21:14:25
+El usuario 'Alberto' se ha conectado. - 2015/11/17 21:15:30
+El usuario 'Alberto' ha subido el fichero example. - 2015/11/17 21:15:44
+El usuario 'Alberto' ha bajado el fichero example2. - 2015/11/17 21:15:58
+El usuario 'Alberto' se ha conectado. - 2015/11/17 22:44:01
+El usuario 'Alberto' se ha conectado. - 2015/11/17 22:45:13
+El usuario 'Alberto' ha subido el fichero example. - 2015/11/17 22:45:17
+El usuario 'Alberto' ha subido el fichero example2. - 2015/11/17 22:45:31
+El usuario 'Alberto' ha bajado el fichero example. - 2015/11/17 22:45:41
+El usuario 'Alberto' se ha conectado. - 2015/11/17 22:48:14
+El usuario 'Alberto' se ha conectado. - 2015/11/17 22:50:36
+El usuario 'Alberto' ha subido el fichero example. - 2015/11/17 22:50:44
+El usuario 'Alberto' ha bajado el fichero example. - 2015/11/17 22:50:52
+El usuario 'Alberto' se ha conectado. - 2015/11/17 22:52:04
+El usuario 'Alberto' se ha conectado. - 2015/11/17 22:55:41
+El usuario 'Alberto' se ha conectado. - 2015/11/17 22:59:18
+El usuario 'Alberto' se ha conectado. - 2015/11/17 23:00:35
+El usuario 'Alberto' ha subido el fichero example. - 2015/11/17 23:00:42
+El usuario 'Alberto' ha bajado el fichero example. - 2015/11/17 23:00:46
+El usuario 'Alberto' ha desconectado. - 2015/11/17 23:00:48
+El usuario 'Alberto' se ha conectado. - 2015/12/01 15:15:28
+El usuario 'Alberto' desconectado inesperadamente. - 2015/12/01 15:15:57
+El usuario 'Alberto' se ha conectado. - 2015/12/01 15:16:19
+El usuario 'Alberto' ha subido el fichero example. - 2015/12/01 15:17:06
